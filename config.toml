@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zh-Hans"
+title = "总统套房"
+theme = "hello-friend"
