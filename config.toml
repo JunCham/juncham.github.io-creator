@@ -1,4 +1,4 @@
-baseURL = "https://juncham.github.io/juncham.github.io-creator/"
+baseURL = "https://juncham.github.io/"
 languageCode = "zh-Hans"
 title = "总统套房"
 theme = "hello-friend"
