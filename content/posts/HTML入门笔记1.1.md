@@ -1,7 +1,7 @@
 ---
-title: "HTML入门笔记1"
-date: 2020-02-02T23:11:04+08:00
-draft: true
+title: "HTML入门笔记1.1"
+date: 2020-02-02T21:18:51+08:00
+draft: false
 ---
 
 # HTML 入门笔记 1
@@ -10,7 +10,7 @@ draft: true
 
 ## HTML 的起源
 
-HTML 源自于李博士的天才捣弄，他依据网址搞出了 URL，根据网页搞出了 HTML，为了让两者更加完善，cd搞出了 HTTP。
+HTML 源自于李博士的天才捣弄，他依据网址搞出了 URL，根据网页搞出了 HTML，为了让两者更加完善，搞出了 HTTP。
 
 ## HTML 的起手
 
