@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://juncham.github.io/juncham.github.io-creator/"
+baseURL = "https://juncham.github.io/"
 title = "总统套房"
 enableRobotsTXT = true
 enableEmoji = true
