@@ -26,9 +26,10 @@ draft: false
 
 6. 最后还有一个步骤：Compose,根据层叠关系展示画面。
 
+![](/images/渲染树.png)
+
 渲染的流程与一些环节的改动有关，例如删除了某个div造成排版的重新改变，这个时候以上流程的每一步都需要进行，有时候只是改变了背景颜色，其他布局不变，那么久直接跳过了layout，如果只是改变了某些样式，例如transform，就可以跳过layout和paint，直接合成。
 
-{< figure src="image/渲染树.png" title="渲染树" >}
 
 渲染的更新需要在全屏查看效果，在iframe里面看有问题。
 
@@ -48,6 +49,7 @@ transition主要是为给定的两个点补充中间帧。
 
 ## animation制作动画
 语法1：@keyframe 元素id{n% {相应命令}}
+
 语法2：@keyframe form{相应命令} to{相应命令}
 
 附带两个自制动画链接：
