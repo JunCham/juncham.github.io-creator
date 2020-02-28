@@ -54,6 +54,6 @@ transition主要是为给定的两个点补充中间帧。
 
 附带两个自制动画链接：
 
-transition：http://js.jirengu.com/javil/1/watch?html,css,output
+transition: http://js.jirengu.com/javil/1/watch?html,css,output
 
 animation: http://js.jirengu.com/feyev/1/watch?html,css,output
