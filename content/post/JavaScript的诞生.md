@@ -34,9 +34,9 @@ JS存在了很多问题，一方面是布兰登的应付与设计额仓促，另
 
 以上内容主要参考自:
 
-<a herf="http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html" title="JavaScript诞生记">JavaScript诞生记</a>
+[JavaScript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html "JavaScript诞生记")
 
-<a herf="http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html" title="">JavaScript的十个设计缺陷</a>
+[JavaScript的十个设计缺陷](http://www.ruanyifeng.com/blog/2011/06/10_design_defects_in_javascript.html "JavaScript的十个设计缺陷")
 
 感觉易上手这一特点给JavaScript带来了机遇，虽然出生得很简陋，但是却因为行业的新兴，缺乏同类产品，易上手等优点使得JS早早占领了
 网页爱好者的喜爱，无中生有了受众。感觉就像乔布斯所说的，顾客并不知道自己想要什么，直到你把产品摆在了他面前。
