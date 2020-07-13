@@ -10,7 +10,7 @@ DOM事件是JS与html交互的一种方式，它的实现主要通过事件流�
 
 以下面的代码为例。
 
-```markdown
+```
 <body>
 <div class="level1 x">
   <div class="level2 x">
